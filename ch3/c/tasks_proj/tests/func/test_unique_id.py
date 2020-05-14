@@ -1,6 +1,6 @@
 """Test tasks.unique_id()."""
 
-import tasks
+from tasks_proj.src import tasks
 
 
 def test_unique_id(tasks_db, tasks_mult_per_owner):

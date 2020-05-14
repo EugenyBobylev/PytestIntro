@@ -1,8 +1,8 @@
 """Define some fixtures to use in the project."""
 
 import pytest
-import tasks
-from tasks import Task
+from tasks_proj.src import tasks
+from tasks_proj.src.tasks import Task
 
 
 @pytest.fixture()

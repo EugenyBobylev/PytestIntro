@@ -1,8 +1,8 @@
 """Test the tasks.add() API function."""
 
 import pytest
-import tasks
-from tasks import Task
+from tasks_proj.src import tasks
+from tasks_proj.src.tasks import Task
 
 tasks_to_try = (Task('sleep', done=True),
                 Task('wake', 'brian'),
