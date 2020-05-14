@@ -1,8 +1,8 @@
 """Test the tasks.add() API function."""
 
 import pytest
-import tasks
-from tasks import Task
+from tasks_proj.src import tasks
+from tasks_proj.src.tasks import Task
 
 
 def test_add_1():

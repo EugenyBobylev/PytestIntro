@@ -16,7 +16,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7995b502-5906-47e1-9cc6-af834f6c3fcb" name="Default Changelist" comment="" />
+    <list default="true" id="7995b502-5906-47e1-9cc6-af834f6c3fcb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add_variety.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add_variety.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_api_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_api_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_unique_id_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_unique_id_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/unit/test_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/unit/test_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch2/tasks_proj/tests/unit/test_task_fail.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/tasks_proj/tests/unit/test_task_fail.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +53,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_unique_id_3.py">
+  <component name="RunManager" selected="Python tests.pytest in test_unique_id_4.py">
     <configuration name="test_one" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PytestIntro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_unique_id_1.test_tinydb_docids" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_add.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PytestIntro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +87,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_unique_id_1.test_tinydb_docids&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_unique_id_1.test_unique_id" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_add_variety.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PytestIntro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +103,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_unique_id_1.test_unique_id&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_add_variety.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_unique_id_2.test_unique_id_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_api_exceptions.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PytestIntro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,23 +119,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_unique_id_2.test_unique_id_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_unique_id_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PytestIntro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2/tasks_proj/tests/func" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_unique_id_2.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_api_exceptions.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -147,13 +139,29 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_unique_id_4.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PytestIntro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2/tasks_proj/tests/func" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ch2/tasks_proj/tests/func/test_unique_id_4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_unique_id_4.py" />
+        <item itemvalue="Python tests.pytest in test_api_exceptions.py" />
+        <item itemvalue="Python tests.pytest in test_add_variety.py" />
+        <item itemvalue="Python tests.pytest in test_add.py" />
         <item itemvalue="Python tests.pytest in test_unique_id_3.py" />
-        <item itemvalue="Python tests.pytest in test_unique_id_2.py" />
-        <item itemvalue="Python tests.pytest for test_unique_id_2.test_unique_id_2" />
-        <item itemvalue="Python tests.pytest for test_unique_id_1.test_unique_id" />
-        <item itemvalue="Python tests.pytest for test_unique_id_1.test_tinydb_docids" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +200,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -216,22 +225,30 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="744" y="273" key="FileChooserDialogImpl/0.0.1920.1052@0.0.1920.1052" timestamp="1589346040196" />
-    <state width="1899" height="349" key="GridCell.Tab.0.bottom" timestamp="1589345845205">
+    <state x="795" y="409" key="Github.ShareDialog" timestamp="1589346196283">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1899" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1589345845205" />
-    <state width="1899" height="349" key="GridCell.Tab.0.center" timestamp="1589345845205">
+    <state x="795" y="409" key="Github.ShareDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1589346196283" />
+    <state x="769" y="85" width="381" height="856" key="Github.UntrackedFilesDialog" timestamp="1589346273506">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1899" height="349" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1589345845205" />
-    <state width="1899" height="349" key="GridCell.Tab.0.left" timestamp="1589345845205">
+    <state x="769" y="85" width="381" height="856" key="Github.UntrackedFilesDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1589346273506" />
+    <state width="1899" height="296" key="GridCell.Tab.0.bottom" timestamp="1589419325488">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1899" height="349" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1589345845205" />
-    <state width="1899" height="349" key="GridCell.Tab.0.right" timestamp="1589345845205">
+    <state width="1899" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1052@0.0.1920.1052" timestamp="1589419325488" />
+    <state width="1899" height="296" key="GridCell.Tab.0.center" timestamp="1589419325488">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
-    <state width="1899" height="349" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1589345845205" />
+    <state width="1899" height="296" key="GridCell.Tab.0.center/0.0.1920.1052@0.0.1920.1052" timestamp="1589419325488" />
+    <state width="1899" height="296" key="GridCell.Tab.0.left" timestamp="1589419325487">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1899" height="296" key="GridCell.Tab.0.left/0.0.1920.1052@0.0.1920.1052" timestamp="1589419325487" />
+    <state width="1899" height="296" key="GridCell.Tab.0.right" timestamp="1589419325488">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state width="1899" height="296" key="GridCell.Tab.0.right/0.0.1920.1052@0.0.1920.1052" timestamp="1589419325488" />
     <state width="1899" height="349" key="GridCell.Tab.1.bottom" timestamp="1589345845206">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
