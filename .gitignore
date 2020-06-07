@@ -157,3 +157,5 @@ fabric.properties
 
 # Pytest
 .pytest_cache/
+.vscode/settings.json
+.idea/workspace.xml
